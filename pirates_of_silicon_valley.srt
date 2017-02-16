@@ -320,7 +320,7 @@ never like you or me. </i>
 
 70
 00:05:13,379 --> 00:05:16,678
-<i>He always saw things differently. 
+<i>He always saw things differently.
 Even then when I was in Berkeley... </i>
 
 71
@@ -1358,7 +1358,7 @@ in with my homemade computer... </i>
 
 296
 00:19:22,861 --> 00:19:25,125
-<i>... but I got a charge out of it. 
+<i>... but I got a charge out of it.
 All those guys... </i>
 
 297
@@ -1410,7 +1410,7 @@ we wanted to do with our lives. </i>
 
 307
 00:19:56,428 --> 00:19:58,828
-<i>- It was all we ever wanted. 
+<i>- It was all we ever wanted.
 - To 30.</i>
 
 308
@@ -1892,7 +1892,7 @@ It's a field of wheat.
 
 411
 00:27:21,706 --> 00:27:24,937
-<i>Oh, and I hear classical music playing. 
+<i>Oh, and I hear classical music playing.
 Do you hear it?</i>
 
 412
@@ -2076,7 +2076,7 @@ from these guys. </i>
 
 452
 00:30:38,236 --> 00:30:41,467
-<i>"Wish you were here," and all that. 
+<i>"Wish you were here," and all that.
 Yeah, right, Albuquerque. </i>
 
 453
@@ -2380,7 +2380,7 @@ Nobody I knew ever heard of Microsoft... </i>
 
 519
 00:35:56,621 --> 00:35:58,953
-<i>... or Bill Gates. 
+<i>... or Bill Gates.
 I mean, they were nobodies. </i>
 
 520
@@ -2697,7 +2697,7 @@ which was amazing. </i>
 
 587
 00:40:57,755 --> 00:41:00,986
-<i>And me too, sort of. 
+<i>And me too, sort of.
 People even knew who I was. </i>
 
 588
@@ -2848,7 +2848,7 @@ That was before the programming. Yeah.
 620
 00:42:54,038 --> 00:42:56,973
 I took night-school courses
-at San José State.
+at San Josï¿½ State.
 
 621
 00:42:57,141 --> 00:42:59,132
@@ -3675,7 +3675,7 @@ We gotta do the right thing.
 
 801
 00:56:31,154 --> 00:56:33,418
-<i>Arlene? Okay, fine. 
+<i>Arlene? Okay, fine.
 Let's talk about this baby. </i>
 
 802
@@ -4304,7 +4304,7 @@ to return to the gate for a few minutes. </i>
 
 940
 01:07:05,654 --> 01:07:10,523
-<i>- Attention, please, flight... 
+<i>- Attention, please, flight...
 - Your tickets, please.</i>
 
 941
@@ -5846,4 +5846,3 @@ Yeah.
 1283
 01:34:40,608 --> 01:34:42,599
 It is.
-
